@@ -1,4 +1,4 @@
-# ANUJ_PROJECT
+# FINANCEPEER PROJECT
 ## Machine Round
 <img src="ScreenShot/ss1.JPG" width=90% >
 <h1 style="font-size:10vw">The user has to first register to login into the web application.</h1>
@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
-<h1 style="font-size:15vw">ANUJ GUPTA</h1>
+<h1 >ANUJ GUPTA</h1>
 
-<h1 style="font-size:10vw">18BCE10044</h1>
+<h1 >18BCE10044</h1>
 <a href="https://drive.google.com/file/d/10f5_8Qp6vQUT2-6FN_Fw5HUxpS3KnfCD/view?usp=sharing">RESUME LINK</a>
